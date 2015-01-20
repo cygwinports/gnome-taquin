@@ -1,0 +1,11 @@
+inherit gnome2
+
+NAME="gnome-taquin"
+VERSION=3.15.4
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="GNOME Fifteen puzzle"
+DESCRIPTION="Taquin is a computer version of the 15-puzzle and other sliding
+puzzles. The object of Taquin is to move tiles so that they reach their places,
+either indicated with numbers, or with parts of a great image."
+HOMEPAGE="https://wiki.gnome.org/Apps/Taquin"
